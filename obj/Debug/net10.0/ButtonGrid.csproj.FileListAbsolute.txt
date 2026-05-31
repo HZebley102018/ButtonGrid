@@ -302,3 +302,4 @@ C:\Users\HarleeSchool\source\repos\ButtonGrid\obj\Debug\net10.0\ButtonGrid.pdb
 C:\Users\HarleeSchool\source\repos\ButtonGrid\obj\Debug\net10.0\ButtonGrid.genruntimeconfig.cache
 C:\Users\HarleeSchool\source\repos\ButtonGrid\obj\Debug\net10.0\ref\ButtonGrid.dll
 C:\Users\HarleeSchool\source\repos\ButtonGrid\obj\Debug\net10.0\compressed\gmnbflcpdv-{0}-bw3vs4vtci-bw3vs4vtci.gz
+C:\Users\HarleeSchool\source\repos\ButtonGrid\obj\Debug\net10.0\ButtonGrid.sourcelink.json

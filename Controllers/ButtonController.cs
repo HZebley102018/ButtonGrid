@@ -35,6 +35,15 @@ namespace ButtonGrid.Controllers
                 button.ButtonState = (button.ButtonState + 1) % 4;
                 button.ButtonImage = buttonImages[button.ButtonState];
             }
+
+            //check if all buttons have same image
+            if(buttons.All(b => b.ButtonImage == buttons[0].ButtonImage))
+            {
+                //clear for new game
+                buttons.Clear();
+                return View("Success");
+            }
+           
             return RedirectToAction("Index");
         }
     }
